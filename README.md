@@ -75,7 +75,7 @@ Server akan berjalan secara default di: `http://localhost:8000`
 ##  Dokumentasi API & Endpoint
 
 FastAPI secara otomatis menyediakan antarmuka dokumentasi Swagger UI. Setelah server berjalan, buka browser dan akses:
-👉 **[http://localhost:8000/docs](http://localhost:8000/docs)**
+**[http://localhost:8000/docs](http://localhost:8000/docs)**
 
 ### Endpoint Utama
 
